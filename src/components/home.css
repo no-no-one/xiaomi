@@ -1,0 +1,53 @@
+html{
+	font-size: 10px;
+}
+header{
+	width: 100%;
+	height: 8rem;
+	text-align: center;
+	box-sizing: border-box;
+	padding:1rem 0;
+	background: rgb(229, 131, 53);	
+	position: absolute;
+	left: 0;
+	top: 0;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	z-index: 500;
+
+}
+.logo{
+
+}
+.logo img{
+	width: 5.6rem;
+	height: 3.3rem;
+}
+.search_bar{
+	width: 52.2rem;
+	height: 5.4rem;
+	border-radius: 1rem;
+	background: url(http://m.mi.com/component/header/img/search_bfba941.png) no-repeat;
+	background-size: 100% 100%;
+	display: flex;
+	align-items: center;
+	justify-content:flex-start;
+}
+.text{
+	color:#fff;
+	font-size: 3rem;
+}
+.search_name{
+	color:rgba(0,0,0,.3);
+	font-size: 2.4rem;
+	margin-left: 6rem;
+}
+/*轮播图*/
+.banner{
+	width: 100%;
+}
+.banner img{
+	width: 100%;
+}

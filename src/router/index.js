@@ -1,11 +1,14 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Hello from '@/components/Hello'
 import Home from '@/components/Home'
 import Mine from '@/components/Mine'
 import Market from '@/components/Market'
 import Cart from '@/components/Cart'
+import Login from '@/components/Login'
+import Search from '@/components/Search'
+import NewPaper from '@/components/NewPaper'
 Vue.use(Router)
+
 
 export default new Router({
   routes: [
@@ -23,6 +26,15 @@ export default new Router({
     },{
     	path:"/cart",
     	component:Cart
+    },{
+      path:"/home/login",
+      component:Login
+    },{
+      path:"/home/search",
+      component:Search
+    },{
+      path:"/home/newPaper",
+      component:NewPaper
     }
   ]
 })
