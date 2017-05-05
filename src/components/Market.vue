@@ -1,5 +1,5 @@
 <template lang="html">
-   <h1>闪送超市</h1>
+   <h1>分类</h1>
 </template>
 <script>
 export default{
