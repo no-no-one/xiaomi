@@ -7,7 +7,7 @@
        <ul>
        <li class="footer_sy"><router-link to="/"><div></div><span>首页</span></router-link></li>
        <li class="footer_fl"><router-link to="market"><div></div><span>分类</span></router-link></li>
-       <li class="footer_gwc"><router-link to="/cart"><div></div><span>购物车</span></router-link></li>
+       <li class="footer_gwc"><router-link to="cart"><div></div><span>购物车</span></router-link></li>
        <li class="footer_wd"><router-link to="mine"><div></div><span>我的</span></router-link></li>
        </ul>
     </div>
@@ -35,9 +35,10 @@ a{
 #footer{
   width: 100%;
   border-top: 1px solid #e0e0e0;
-    position: fixed;
+  position: fixed;
   bottom: 0;
   left: 0;
+  background: white;
 }
  #footer ul{
   width: 100%;
