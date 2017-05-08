@@ -50,7 +50,7 @@
 					return true
 				}else{
 					document.getElementById("uinfo").innerHTML ="用户名密码不正确";
-					return false;
+					return true;
 				}
 				
 		  	}
