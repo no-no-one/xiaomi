@@ -1,100 +1,114 @@
 <template lang="html">
      <div class="page">
 
-
+		<router-view></router-view>
 		<header>
 		    <img src="../assets/default.png">
 		    <span>
-		        <a href="#">注册/登录</a>
+		        <router-link to="/enter">注册/登录</router-link>
 		    </span>
 		</header>
-		<div class="myindent">
-		    <ul>
-		        <li class="mine">
-		        	<p>我的订单</p>
-		        </li>
-		        <li class="all">
-		            <p>全部订单</p>
-		            <img src="../assets/right.jpg">
-		        </li>
-		    </ul>
-		</div>
+		<router-link to="/indent">
+			<div class="myindent">
+			    <ul>
+			        <li class="mine">
+		        		<p>我的订单</p>
+			        </li>
+			        <li class="all">
+			            <p>全部订单</p>
+			            <img src="../assets/right.jpg">
+			        </li>
+			    </ul>
+			</div>
+		</router-link>
 		<div class="nav">
 		    <ul>
+
 		        <li>
-	                <img src="../assets/nav-1_f74ca94.png">
-	                <span>待付款</span>
+		        	<router-link to="/indent">
+		                <img src="../assets/nav-1_f74ca94.png">
+		                <span>待付款</span>
+					</router-link>
 		        </li>
 		        <li>
-	                <img src="../assets/nav-1_f74ca94.png">
-	                <span>待收货</span>
+		        	<router-link to="/indent">
+		                <img src="../assets/nav-1_f74ca94.png">
+		                <span>待收货</span>
+		            </router-link>
 		        </li>
 		        <li>
-	                <img src="../assets/nav-4_42676a4.png">
-	                <span>退换修</span>
+		        	<router-link to="/record">
+		                <img src="../assets/nav-4_42676a4.png">
+		                <span>退换修</span>
+	                </router-link>
 		        </li>
 		    </ul>
 		</div>
 		<div class="items">
-		    <ul>
-		        <li>
-		        	<a href="#">
-		           		 <img src="../assets/i-wallet_13a8fda.png">
-		           	</a>
-		            <span>我的优惠</span>
-		        </li>
-		        <li>
-		            <a href="#">
-		                <img src="../assets/right.jpg">
-		            </a>
-		        </li>
-		    </ul>
-		    <ul>
-		        <li>
-		        <a href="#">
-		        	<img src="../assets/i-service_7b9f412.png">
-		        </a>
-		        <span>服务中心</span>
-		    	</li>
-		        <li>
-		            <a href="#">
-		                <img src="../assets/right.jpg">
-		            </a>
-		        </li>
-		    </ul>
-		    <ul>
-		        <li>
-		        	<a href="#">
-		            	<img src="../assets/i-mihome_c836072.png">
-		            </a>
-		            <span>小米之家</span>
-		        </li>
-		        <li>
-		            <a href="#">
-		                <img src="../assets/right.jpg">
-		            </a>
-		        </li>
-		    </ul>
-		    <ul>
-		        <li>
-		        	<a href="#">
-		            	<img src="../assets/i-setting_4ddebe5.png">
-		            </a>
-		            <span>设置</span>
-		        </li>
-		        <li>
-		            <a href="#">
-		                <img src="../assets/right.jpg">
-		            </a>
-		        </li>
-		    </ul>
+			<router-link to="/privilege">
+			    <ul>
+			        <li>
+			        	<a href="#">
+			           		 <img src="../assets/i-wallet_13a8fda.png">
+			           	</a>
+			            <span>我的优惠</span>
+			        </li>
+			        <li>
+			            <a href="#">
+			                <img src="../assets/right.jpg">
+			            </a>
+			        </li>
+			    </ul>
+		    </router-link>
+		    <router-link to="/service">
+			    <ul>
+			        <li>
+			        <a href="#">
+			        	<img src="../assets/i-service_7b9f412.png">
+			        </a>
+			        <span>服务中心</span>
+			    	</li>
+			        <li>
+			            <a href="#">
+			                <img src="../assets/right.jpg">
+			            </a>
+			        </li>
+			    </ul>
+		    </router-link>
+		    <router-link to="/family">
+			    <ul>
+			        <li>
+			        	<a href="#">
+			            	<img src="../assets/i-mihome_c836072.png">
+			            </a>
+			            <span>小米之家</span>
+			        </li>
+			        <li>
+			            <a href="#">
+			                <img src="../assets/right.jpg">
+			            </a>
+			        </li>
+			    </ul>
+		    </router-link>
+		    <router-link to="/set">
+			    <ul>
+			        <li>
+			        	<a href="#">
+			            	<img src="../assets/i-setting_4ddebe5.png">
+			            </a>
+			            <span>设置</span>
+			        </li>
+			        <li>
+			            <a href="#">
+			                <img src="../assets/right.jpg">
+			            </a>
+			        </li>
+			    </ul>
+		    </router-link>
 		</div>
     </div>
 </template>
 <script>
-export default{
-	
-}
 </script>
 <style>
 	*{
@@ -107,6 +121,7 @@ export default{
 	}
 	a{
 	    text-decoration: none;
+	    color: black;
 	}
 	ul,li{
 	    list-style: none;
@@ -115,7 +130,7 @@ export default{
 	    border: none;
 	}
 	header{
-	     background: url(../assets/bg_0425a88.png) center 0 #f37d0f;
+	     background: url(../assets/bg_0425a88.png) 		center 0 #f37d0f;
 	    background-size: auto 100%;
 	    padding: .32rem 0;
 	    width: 100%;
@@ -178,10 +193,11 @@ export default{
 	}
 	.nav ul{
 	    display: flex;
-	    justify-content: space-around;
+	    ;
 	    height: 9.1rem;
 	}
-	.nav ul li{
+	.nav ul li a,.nav ul li{
+		width: 100%;
 		display: flex;
 		flex-direction: column;
 		align-items: center;

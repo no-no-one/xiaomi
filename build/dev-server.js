@@ -21,6 +21,41 @@ var autoOpenBrowser = !!config.dev.autoOpenBrowser
 var proxyTable = config.dev.proxyTable
 
 var app = express()
+//开始
+// 本地json-server服务器搭建代码
+// 引入数据库文件
+var appData = require('../static/mine.json')
+// 引入数据库
+var data = appData.data
+var apiRoutes = express.Router()
+// 使用api的方法来创建连接时候的请求
+apiRoutes.post('/data', function (req, res) {
+  res.json({
+    errno: 0 ,
+    data: data
+  });
+})
+// 调用api
+app.use('/api', apiRoutes)
+//结束
+
+// //开始
+// // 本地json-server服务器搭建代码
+// // 引入数据库文件
+// var appData = require('../static/adress.json')
+// // 引入数据库
+// var data = appData.data
+// var apiRoutes = express.Router()
+// // 使用api的方法来创建连接时候的请求
+// apiRoutes.post('/data', function (req, res) {
+//   res.json({
+//     errno: 0 ,
+//     data: data
+//   });
+// })
+// // 调用api
+// app.use('/api', apiRoutes)
+// //结束
 var compiler = webpack(webpackConfig)
 
 var devMiddleware = require('webpack-dev-middleware')(compiler, {
