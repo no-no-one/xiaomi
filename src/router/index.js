@@ -8,6 +8,7 @@ import Login from '@/components/Login'
 import Search from '@/components/Search'
 import NewPaper from '@/components/NewPaper'
 import NewPro from '@/components/NewPro'
+import ShopCar from '@/components/ShopCar'
 
 Vue.use(Router)
 
@@ -40,6 +41,9 @@ export default new Router({
     },{
       path:"/home/newProduct",
       component:NewPro
-    }
+    }{
+      path:"/home/shopCar",
+      component:ShopCar
+    },
   ]
 })

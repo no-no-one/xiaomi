@@ -43,7 +43,7 @@
 						        <p v-if="currentIndex==index"  v-for="(x,index) in newsTitleData" key="index">
 						        	{{x.news_title}}
 						        </p>
-						         </transition-group>	
+						</transition-group>	
 						 </div>
 
 							
@@ -96,7 +96,7 @@
 			<dl class="smart" v-for="x in smartData">
 				<div class="smart_inner" >												
 					<dt class="smart_img" >					
-						<img :src="x.body.items[0].img_url" alt="">
+						<router-link to="/home/shopCar"><img :src="x.body.items[0].img_url" alt=""></router-link>
 					</dt>
 					<dd class="info">
 						<div class="name">{{x.body.items[0].product_name}}</div>
