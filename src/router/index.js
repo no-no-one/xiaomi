@@ -5,6 +5,7 @@ import Home from '@/components/Home'
 import Mine from '@/components/Mine'
 import Market from '@/components/Market'
 import Cart from '@/components/Cart'
+import channel from '@/components/channel'
 Vue.use(Router)
 
 export default new Router({
@@ -23,6 +24,11 @@ export default new Router({
     },{
     	path:"/cart",
     	component:Cart
+    },
+    {
+      path:"/market/channel",
+      component:channel
     }
+      
   ]
 })
