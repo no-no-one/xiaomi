@@ -1,6 +1,6 @@
 <template lang="html">
   <div class="service">
-   		<div class="header">
+   		<div class="allUse">
 	   		<a href="javascript:history.go(-1)"><img src="../assets/icon_back_n.png" alt=""></a>
 	   		<span>服务</span>
 	   		<img src="../assets/1mjp3jvupwan87lzygaaspwfq4eyxqv3.png" alt="">
@@ -54,6 +54,8 @@ export default{
 	img{
 		width: 100%;
 	}
+
+	/*通用样式*/
 	.service .catalog{
 		display: flex;
 		flex-direction: column;

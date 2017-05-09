@@ -1,6 +1,6 @@
 <template lang="html">
     <div class="record">
-   		<div class="header">
+   		<div class="allUse">
 	   		<a href="javascript:history.go(-1)"><img src="../assets/icon_back_n.png" alt="" @click="clickFun"></a>
 	   		<span>售后记录</span>
 	   		<img src="../assets/1mjp3jvupwan87lzygaaspwfq4eyxqv3.png" alt="">
@@ -40,7 +40,7 @@
 			}
 		},
 		mounted(){
-		  this.$http.post("./api/data")
+		  this.$http.get("../../static/mine.json")
 		  .then(function(res){
 		  this.itemData = res.data.data.recom_list
 		  });

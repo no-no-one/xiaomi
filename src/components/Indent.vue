@@ -1,6 +1,6 @@
 <template lang="html">
    <div class="indent">
-   		<div class="header">
+   		<div class="allUse">
 	   		<a href="javascript:history.go(-1)"><img src="../assets/icon_back_n.png" alt=""></a>
 	   		<span>我的订单</span>
 	   		<img src="../assets/1mjp3jvupwan87lzygaaspwfq4eyxqv3.png" alt="">
@@ -22,7 +22,8 @@ export default{
 }
 </script>
 <style lang="css">
-	 .header{
+	/*通用头部样式*/
+	 .allUse{
 		width: 100%;
 		height: 4rem;
 		background: #f2f2f2;
@@ -30,20 +31,24 @@ export default{
 		justify-content: space-between;
 		align-items: center;
 	}
-	 .header img{
+	 .allUse img{
 		width: 2rem;
 		height: 2rem;
 	}
-	 .header img:first-of-type{
+	 .allUse img:first-of-type{
 		margin-left: 1rem;
 	}
-	 .header img:last-of-type{
+	 .allUse img:last-of-type{
 		margin-right: 1rem;
 	}
-	 .header span{
+	 .allUse span{
 		font-size: 1.8rem;
 		color:#666;
 	}
+
+
+
+
 	.indent .mine{
 		display: flex;
 		flex-direction: column;
