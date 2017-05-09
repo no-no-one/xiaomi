@@ -4,8 +4,12 @@ import Home from '@/components/Home'
 import Mine from '@/components/Mine'
 import Market from '@/components/Market'
 import Cart from '@/components/Cart'
+<<<<<<< HEAD
 import CartSerch from '@/components/CartSerch'
 import PhoneList from '@/components/PhoneList'
+=======
+import channel from '@/components/channel'
+>>>>>>> origin/classify
 Vue.use(Router)
 
 export default new Router({
@@ -24,12 +28,20 @@ export default new Router({
     },{
     	path:"/cart",
     	component:Cart
+<<<<<<< HEAD
     },{
       path:"/cartserch",
       component:CartSerch
     },{
       path:"/phonelist/:isLogin",
       component:PhoneList
+=======
+    },
+    {
+      path:"/market/channel",
+      component:channel
+>>>>>>> origin/classify
     }
+      
   ]
 })
