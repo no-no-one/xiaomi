@@ -125,18 +125,30 @@
                     "h": 0,
                     "items": [
                         {
+<<<<<<< HEAD
                             "img1_url": "http://i8.mifile.cn/v1/a1/ac1e185d-3b75-9982-5f22-5762683dd1a5.webp?bg=2A3935",
                             "img1_url_webp": "http://i8.mifile.cn/v1/a1/ac1e185d-3b75-9982-5f22-5762683dd1a5.webp?bg=2A3935",
+=======
+                            "img_url": "http://i8.mifile.cn/v1/a1/ac1e185d-3b75-9982-5f22-5762683dd1a5.webp?bg=2A3935",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/ac1e185d-3b75-9982-5f22-5762683dd1a5.webp?bg=2A3935",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "action": {
                                 "type": "product",
                                 "path": "5468",
                                 "log_code": "311415wapchannellist_one_type12001006#rid=29b0d227338d43109fe44d4ea5f7bd27&t=product&page=channel&pid=5468"
                             },
                             "product_id": "5468",
+<<<<<<< HEAD
                             "product1_name": "小蚁微单相机M1 双镜头套机",
                             "product1_price": "2999",
                             "product_org_price": "2999",
                             "product1_brief": "高画质易操作 小白也能轻松专业摄影",
+=======
+                            "product_name": "小蚁微单相机M1 双镜头套机",
+                            "product_price": "2999",
+                            "product_org_price": "2999",
+                            "product_brief": "高画质易操作 小白也能轻松专业摄影",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "x": 0,
                             "y": 0,
                             "w": 0,
@@ -242,18 +254,30 @@
                     "h": 0,
                     "items": [
                         {
+<<<<<<< HEAD
                             "img1_url": "http://i8.mifile.cn/v1/a1/aeafd46d-6976-5cee-2e15-5f4f0febdab9.webp?bg=DAC3AD",
                             "img1_url_webp": "http://i8.mifile.cn/v1/a1/aeafd46d-6976-5cee-2e15-5f4f0febdab9.webp?bg=DAC3AD",
+=======
+                            "img_url": "http://i8.mifile.cn/v1/a1/aeafd46d-6976-5cee-2e15-5f4f0febdab9.webp?bg=DAC3AD",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/aeafd46d-6976-5cee-2e15-5f4f0febdab9.webp?bg=DAC3AD",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "action": {
                                 "type": "product",
                                 "path": "5500",
                                 "log_code": "311415wapchannellist_one_type12001009#rid=1bdbbd6a5acebd8d188195e7f8b82c3f&t=product&page=channel&pid=5500"
                             },
                             "product_id": "5500",
+<<<<<<< HEAD
                             "product1_name": "米家 IH 电饭煲 4L",
                             "product1_price": "599",
                             "product1_org_price": "599",
                             "product1_brief": "智能烹饪，煮出来的米饭口感很棒",
+=======
+                            "product_name": "米家 IH 电饭煲 4L",
+                            "product_price": "599",
+                            "product_org_price": "599",
+                            "product_brief": "智能烹饪，煮出来的米饭口感很棒",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "x": 0,
                             "y": 0,
                             "w": 0,
@@ -347,18 +371,30 @@
                     "h": 0,
                     "items": [
                         {
+<<<<<<< HEAD
                             "img1_url": "http://i8.mifile.cn/v1/a1/02cd9384-e53b-eace-eca1-27db57a2367a.webp",
                             "img1_url_webp": "http://i8.mifile.cn/v1/a1/02cd9384-e53b-eace-eca1-27db57a2367a.webp",
+=======
+                            "img_url": "http://i8.mifile.cn/v1/a1/02cd9384-e53b-eace-eca1-27db57a2367a.webp",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/02cd9384-e53b-eace-eca1-27db57a2367a.webp",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "action": {
                                 "type": "product",
                                 "path": "5297",
                                 "log_code": "311415wapchannellist_one_type12001013#rid=38a869aa37e74af1eacaa24a73d7f005&t=product&page=channel&pid=5297"
                             },
                             "product_id": "5297",
+<<<<<<< HEAD
                             "product1_name": "小米体脂秤",
                             "product1_price": "199",
                             "product1_org_price": "199",
                             "product1_brief": "10 项精准数据检测，身体数据精准掌握",
+=======
+                            "product_name": "小米体脂秤",
+                            "product_price": "199",
+                            "product_org_price": "199",
+                            "product_brief": "10 项精准数据检测，身体数据精准掌握",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "x": 0,
                             "y": 0,
                             "w": 0,
@@ -497,18 +533,30 @@
                     "h": 0,
                     "items": [
                         {
+<<<<<<< HEAD
                             "img1_url": "http://i8.mifile.cn/v1/a1/d6a96c83-d35e-8566-65da-f4291a76d63b.webp",
                             "img1_url_webp": "http://i8.mifile.cn/v1/a1/d6a96c83-d35e-8566-65da-f4291a76d63b.webp",
+=======
+                            "img_url": "http://i8.mifile.cn/v1/a1/d6a96c83-d35e-8566-65da-f4291a76d63b.webp",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/d6a96c83-d35e-8566-65da-f4291a76d63b.webp",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "action": {
                                 "type": "product",
                                 "path": "3486",
                                 "log_code": "311415wapchannellist_one_type12001018#rid=ec3cdb34af8d4c46bee31d069e43a7e2&t=product&page=channel&pid=3486"
                             },
                             "product_id": "3486",
+<<<<<<< HEAD
                             "product1_name": "小米路由器3",
                             "product1_price": "149",
                             "product1_org_price": "149",
                             "product1_brief": "全向高增益4天线，信号更强，七重安全防护",
+=======
+                            "product_name": "小米路由器3",
+                            "product_price": "149",
+                            "product_org_price": "149",
+                            "product_brief": "全向高增益4天线，信号更强，七重安全防护",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "x": 0,
                             "y": 0,
                             "w": 0,
@@ -598,18 +646,30 @@
                     "h": 0,
                     "items": [
                         {
+<<<<<<< HEAD
                             "img1_url": "http://i8.mifile.cn/v1/a1/d6201d36-fe36-bced-95d9-a0595ccad135.webp",
                             "img1_url_webp": "http://i8.mifile.cn/v1/a1/d6201d36-fe36-bced-95d9-a0595ccad135.webp",
+=======
+                            "img_url": "http://i8.mifile.cn/v1/a1/d6201d36-fe36-bced-95d9-a0595ccad135.webp",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/d6201d36-fe36-bced-95d9-a0595ccad135.webp",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "action": {
                                 "type": "product",
                                 "path": "3398",
                                 "log_code": "311415wapchannellist_one_type12001022#rid=d48efdbf08af5a50e522746e5d2c8838&t=product&page=channel&pid=3398"
                             },
                             "product_id": "3398",
+<<<<<<< HEAD
                             "product1_name": "小米空气净化器 2",
                             "product1_price": "699",
                             "product1_org_price": "699",
                             "product1_brief": "10分钟，房间空气焕然一新\r\n净化能力高达310m3/h",
+=======
+                            "product_name": "小米空气净化器 2",
+                            "product_price": "699",
+                            "product_org_price": "699",
+                            "product_brief": "10分钟，房间空气焕然一新\r\n净化能力高达310m3/h",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "x": 0,
                             "y": 0,
                             "w": 0,
@@ -761,18 +821,30 @@
                     "h": 0,
                     "items": [
                         {
+<<<<<<< HEAD
                             "img1_url": "http://i8.mifile.cn/v1/a1/e70cee4f-e1fd-0f0b-8d3b-e695d0b42323.webp",
                             "img1_url_webp": "http://i8.mifile.cn/v1/a1/e70cee4f-e1fd-0f0b-8d3b-e695d0b42323.webp",
+=======
+                            "img_url": "http://i8.mifile.cn/v1/a1/e70cee4f-e1fd-0f0b-8d3b-e695d0b42323.webp",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/e70cee4f-e1fd-0f0b-8d3b-e695d0b42323.webp",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "action": {
                                 "type": "product",
                                 "path": "2723",
                                 "log_code": "311415wapchannellist_one_type12001027#rid=7e36eebb5f73893cc9f3dc199755ab48&t=product&page=channel&pid=2723"
                             },
                             "product_id": "2723",
+<<<<<<< HEAD
                             "product1_name": "米家小白智能摄像机",
                             "product1_price": "389",
                             "product1_org_price": "399",
                             "product1_brief": "360度1080P全方位拍摄，语音控制米家智能设备",
+=======
+                            "product_name": "米家小白智能摄像机",
+                            "product_price": "389",
+                            "product_org_price": "399",
+                            "product_brief": "360度1080P全方位拍摄，语音控制米家智能设备",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "product_tag": "http://i8.mifile.cn/v1/a1/a8e1c04a-8eb0-3d84-0c0b-c105f3829ec6.webp",
                             "x": 0,
                             "y": 0,
@@ -864,18 +936,30 @@
                     "h": 0,
                     "items": [
                         {
+<<<<<<< HEAD
                             "img1_url": "http://i8.mifile.cn/v1/a1/65a28abc-b3bb-f022-0f90-fb241333e02b.webp",
                             "img1_url_webp": "http://i8.mifile.cn/v1/a1/65a28abc-b3bb-f022-0f90-fb241333e02b.webp",
+=======
+                            "img_url": "http://i8.mifile.cn/v1/a1/65a28abc-b3bb-f022-0f90-fb241333e02b.webp",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/65a28abc-b3bb-f022-0f90-fb241333e02b.webp",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "action": {
                                 "type": "product",
                                 "path": "3556",
                                 "log_code": "311415wapchannellist_one_type12001031#rid=7bc5767bbdb02613330cb00f85054b7e&t=product&page=channel&pid=3556"
                             },
                             "product_id": "3556",
+<<<<<<< HEAD
                             "product1_name": "米家恒温电水壶",
                             "product1_price": "199",
                             "product1_org_price": "199",
                             "product1_brief": "水温智能控制，快速沸腾，三重安全保护",
+=======
+                            "product_name": "米家恒温电水壶",
+                            "product_price": "199",
+                            "product_org_price": "199",
+                            "product_brief": "水温智能控制，快速沸腾，三重安全保护",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "x": 0,
                             "y": 0,
                             "w": 0,
@@ -987,18 +1071,30 @@
                     "h": 0,
                     "items": [
                         {
+<<<<<<< HEAD
                             "img1_url": "http://i8.mifile.cn/v1/a1/4f3cb262-b746-7dcc-1b7f-1728fd68473c.webp",
                             "img1_url_webp": "http://i8.mifile.cn/v1/a1/4f3cb262-b746-7dcc-1b7f-1728fd68473c.webp",
+=======
+                            "img_url": "http://i8.mifile.cn/v1/a1/4f3cb262-b746-7dcc-1b7f-1728fd68473c.webp",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/4f3cb262-b746-7dcc-1b7f-1728fd68473c.webp",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "action": {
                                 "type": "product",
                                 "path": "3488",
                                 "log_code": "311415wapchannellist_one_type12001035#rid=ee83d2ec7122b92b10af08bc60c3df3d&t=product&page=channel&pid=3488"
                             },
                             "product_id": "3488",
+<<<<<<< HEAD
                             "product1_name": "米家压力IH电饭煲",
                             "product1_price": "999",
                             "product1_org_price": "999",
                             "product1_brief": "幸福的味道，有点甜",
+=======
+                            "product_name": "米家压力IH电饭煲",
+                            "product_price": "999",
+                            "product_org_price": "999",
+                            "product_brief": "幸福的味道，有点甜",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "x": 0,
                             "y": 0,
                             "w": 0,
@@ -1036,18 +1132,30 @@
                     "h": 0,
                     "items": [
                         {
+<<<<<<< HEAD
                             "img1_url": "http://i8.mifile.cn/v1/a1/277ff46b-0e45-7d9b-ded8-fd0765bb3b1a.webp?bg=BEBFC4",
                             "img1_url_webp": "http://i8.mifile.cn/v1/a1/277ff46b-0e45-7d9b-ded8-fd0765bb3b1a.webp?bg=BEBFC4",
+=======
+                            "img_url": "http://i8.mifile.cn/v1/a1/277ff46b-0e45-7d9b-ded8-fd0765bb3b1a.webp?bg=BEBFC4",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/277ff46b-0e45-7d9b-ded8-fd0765bb3b1a.webp?bg=BEBFC4",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "action": {
                                 "type": "product",
                                 "path": "2774",
                                 "log_code": "311415wapchannellist_one_type12001037#rid=8a4cee878ad3c395e328277002bfefff&t=product&page=channel&pid=2774"
                             },
                             "product_id": "2774",
+<<<<<<< HEAD
                             "product1_name": "九号平衡车",
                             "product1_price": "1999",
                             "product1_org_price": "1999",
                             "product1_brief": "年轻人的酷玩具，骑行遥控两种玩法",
+=======
+                            "product_name": "九号平衡车",
+                            "product_price": "1999",
+                            "product_org_price": "1999",
+                            "product_brief": "年轻人的酷玩具，骑行遥控两种玩法",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "x": 0,
                             "y": 0,
                             "w": 0,
@@ -1139,18 +1247,30 @@
                     "h": 0,
                     "items": [
                         {
+<<<<<<< HEAD
                             "img1_url": "http://i8.mifile.cn/v1/a1/8a9f8ff1-108b-ad3a-9cb9-b02ce64415e8.webp",
                             "img1_url_webp": "http://i8.mifile.cn/v1/a1/8a9f8ff1-108b-ad3a-9cb9-b02ce64415e8.webp",
+=======
+                            "img_url": "http://i8.mifile.cn/v1/a1/8a9f8ff1-108b-ad3a-9cb9-b02ce64415e8.webp",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/8a9f8ff1-108b-ad3a-9cb9-b02ce64415e8.webp",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "action": {
                                 "type": "product",
                                 "path": "1945",
                                 "log_code": "311415wapchannellist_one_type12001041#rid=62171d2acace9085884468d5b7c15d4f&t=product&page=channel&pid=1945"
                             },
                             "product_id": "1945",
+<<<<<<< HEAD
                             "product1_name": "小米体重秤 智能分析自动识别",
                             "product1_price": "99",
                             "product1_org_price": "99",
                             "product1_brief": "高精度压力传感器，手机管理全家健康",
+=======
+                            "product_name": "小米体重秤 智能分析自动识别",
+                            "product_price": "99",
+                            "product_org_price": "99",
+                            "product_brief": "高精度压力传感器，手机管理全家健康",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "x": 0,
                             "y": 0,
                             "w": 0,
@@ -1363,18 +1483,30 @@
                     "h": 0,
                     "items": [
                         {
+<<<<<<< HEAD
                             "img1_url": "http://i8.mifile.cn/v1/a1/87f64061-3c36-83be-40e0-7b4d0d7a8725.webp",
                             "img1_url_webp": "http://i8.mifile.cn/v1/a1/87f64061-3c36-83be-40e0-7b4d0d7a8725.webp",
+=======
+                            "img_url": "http://i8.mifile.cn/v1/a1/87f64061-3c36-83be-40e0-7b4d0d7a8725.webp",
+                            "img_url_webp": "http://i8.mifile.cn/v1/a1/87f64061-3c36-83be-40e0-7b4d0d7a8725.webp",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "action": {
                                 "type": "product",
                                 "path": "3806",
                                 "log_code": "311415wapchannellist_one_type12001049#rid=12778970190c97bcbe4f0fa95fbb9e92&t=product&page=channel&pid=3806"
                             },
                             "product_id": "3806",
+<<<<<<< HEAD
                             "product1_name": "米家 LED 智能台灯",
                             "product1_price": "169",
                             "product1_org_price": "169",
                             "product1_brief": "无可视频闪，亮度色温无级调节，四种场景调光",
+=======
+                            "product_name": "米家 LED 智能台灯",
+                            "product_price": "169",
+                            "product_org_price": "169",
+                            "product_brief": "无可视频闪，亮度色温无级调节，四种场景调光",
+>>>>>>> adddd8f286170ccbc3940e5e310c3a48d3c0a78b
                             "x": 0,
                             "y": 0,
                             "w": 0,

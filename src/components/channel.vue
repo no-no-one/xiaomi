@@ -2,7 +2,9 @@
    <div>
    	<!-- 头部 -->
    	<div class="channel_head">
+
    		<router-link to="/Market"><a href=""><img src="../assets/icon_back_n.png" alt=""></a></router-link>
+   		<a href=""><img src="../assets/icon_back_n.png" alt=""></a>
    		<input type="text" placeholder="搜索商品名称">
    		<a href=""><img src="../assets/cart_white_35b9dc4.png" alt=""></a>
    	</div>
@@ -37,213 +39,7 @@
    		</div>
    		
 
-	<!-- 热销新品 -->
-   <!-- 	<div class="channel_all">
-   		<p class="channel_title">热销新品</p>
-   		<a href=""><img src="http://i8.mifile.cn/v1/a1/ac1e185d-3b75-9982-5f22-5762683dd1a5.webp?bg=2A3935" alt=""></a>
-   		<p class="channel_type"><a href="">小蚁微单相机M1双镜头套机<span>￥2999</span></a></p>
-		<p class="channel_intro"><a href="">高画质易操作 小白也能轻松专业摄影</a></p>
-		<div class="channel_reset">
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-		</div>
-   	</div> -->
-
-
-	<!-- 轻松好路由 -->
-   <!-- 	<div class="channel_all">
-   		<p class="channel_title">轻松好路由</p>
-   		<a href=""><img src="http://i8.mifile.cn/v1/a1/ac1e185d-3b75-9982-5f22-5762683dd1a5.webp?bg=2A3935" alt=""></a>
-   		<p class="channel_type"><a href="">小蚁微单相机M1双镜头套机<span>￥2999</span></a></p>
-		<p class="channel_intro"><a href="">高画质易操作 小白也能轻松专业摄影</a></p>
-		<div class="channel_reset">
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-		</div>
-   	</div> -->
-
-	<!-- 抵抗雾霾 -->
-   	<!-- <div class="channel_all">
-   		<p class="channel_title">抵抗雾霾</p>
-   		<a href=""><img src="http://i8.mifile.cn/v1/a1/ac1e185d-3b75-9982-5f22-5762683dd1a5.webp?bg=2A3935" alt=""></a>
-   		<p class="channel_type"><a href="">小蚁微单相机M1双镜头套机<span>￥2999</span></a></p>
-		<p class="channel_intro"><a href="">高画质易操作 小白也能轻松专业摄影</a></p>
-		<div class="channel_reset">
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-		</div>
-   	</div> -->
-
-
-	<!-- 看家小助手 -->
-   	<!-- <div class="channel_all">
-   		<p class="channel_title">看家小助手</p>
-   		<a href=""><img src="http://i8.mifile.cn/v1/a1/ac1e185d-3b75-9982-5f22-5762683dd1a5.webp?bg=2A3935" alt=""></a>
-   		<p class="channel_type"><a href="">小蚁微单相机M1双镜头套机<span>￥2999</span></a></p>
-		<p class="channel_intro"><a href="">高画质易操作 小白也能轻松专业摄影</a></p>
-		<div class="channel_reset">
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-		</div>
-   	</div> -->
-
-
-	<!-- 家居好帮手 -->
-   <!-- 	<div class="channel_all">
-   		<p class="channel_title">家居好帮手</p>
-   		<a href=""><img src="http://i8.mifile.cn/v1/a1/ac1e185d-3b75-9982-5f22-5762683dd1a5.webp?bg=2A3935" alt=""></a>
-   		<p class="channel_type"><a href="">小蚁微单相机M1双镜头套机<span>￥2999</span></a></p>
-		<p class="channel_intro"><a href="">高画质易操作 小白也能轻松专业摄影</a></p>
-		<div class="channel_reset">
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-		</div>
-   	</div>
- -->
-
-	<!-- 轻松潮酷出行 -->
-   <!-- 	<div class="channel_all">
-   		<p class="channel_title">轻松潮酷出行</p>
-   		<a href=""><img src="http://i8.mifile.cn/v1/a1/ac1e185d-3b75-9982-5f22-5762683dd1a5.webp?bg=2A3935" alt=""></a>
-   		<p class="channel_type"><a href="">小蚁微单相机M1双镜头套机<span>￥2999</span></a></p>
-		<p class="channel_intro"><a href="">高画质易操作 小白也能轻松专业摄影</a></p>
-		<div class="channel_reset">
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-		</div>
-   	</div> -->
-
-	<!-- 健康管家 -->
-   <!-- 	<div class="channel_all">
-   		<p class="channel_title">健康管家</p>
-   		<a href=""><img src="http://i8.mifile.cn/v1/a1/ac1e185d-3b75-9982-5f22-5762683dd1a5.webp?bg=2A3935" alt=""></a>
-   		<p class="channel_type"><a href="">小蚁微单相机M1双镜头套机<span>￥2999</span></a></p>
-		<p class="channel_intro"><a href="">高画质易操作 小白也能轻松专业摄影</a></p>
-		<div class="channel_reset">
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-		</div>
-   	</div>
-	 -->
-
-	<!-- 送给孩子的好礼物 -->
-   <!-- 	<div class="channel_all">
-   		<p class="channel_title">送给孩子的好礼物</p>
-   		<a href=""><img src="http://i8.mifile.cn/v1/a1/ac1e185d-3b75-9982-5f22-5762683dd1a5.webp?bg=2A3935" alt=""></a>
-   		<p class="channel_type"><a href="">小蚁微单相机M1双镜头套机<span>￥2999</span></a></p>
-		<p class="channel_intro"><a href="">高画质易操作 小白也能轻松专业摄影</a></p>
-		<div class="channel_reset">
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-		</div>
-   	</div> -->
-
-
-	<!-- 开启智能家居 -->
-   <!-- 	<div class="channel_all">
-   		<p class="channel_title">开启智能家居</p>
-   		<a href=""><img src="http://i8.mifile.cn/v1/a1/ac1e185d-3b75-9982-5f22-5762683dd1a5.webp?bg=2A3935" alt=""></a>
-   		<p class="channel_type"><a href="">小蚁微单相机M1双镜头套机<span>￥2999</span></a></p>
-		<p class="channel_intro"><a href="">高画质易操作 小白也能轻松专业摄影</a></p>
-		<div class="channel_reset">
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-			<dl>
-				<dt><a href=""><img src="http://i8.mifile.cn/v1/a1/57912412-70d9-515c-6a6f-1b22cb5ed93e.webp?width=360&height=360" alt=""></a></dt>
-				<dd><a href=""><b>小米路由器Pro</b></a></dd>
-				<dd><a href="">全新一代智能家庭中心</a></dd>
-				<dd><a href=""><span>￥499</span></a></dd>
-			</dl>
-		</div>
-   	</div> -->
-
-
-
-
+	
 
    </div>
 </template>
@@ -253,6 +49,7 @@ import VueResource from "vue-resource"
 export default{
 	data (){
 		return {
+
 			channelData:[],
 			total : 0,
 		 	bigImages : [],
@@ -283,13 +80,19 @@ export default{
 			console.log(this.texts4)
 
 			
+
+
+
 		}
 	},
 	mounted (){
 		this.$http.get("../../static/channel.json").then(function(res){
 			this.channelData=res.data.data.sections;
+
 			this.parseData();
 			console.log(this.channelData)
+	console.log(res)
+
 		})
 }
 
