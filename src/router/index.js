@@ -7,6 +7,8 @@ import Cart from '@/components/Cart'
 import Login from '@/components/Login'
 import Search from '@/components/Search'
 import NewPaper from '@/components/NewPaper'
+import NewPro from '@/components/NewPro'
+
 Vue.use(Router)
 
 
@@ -35,6 +37,9 @@ export default new Router({
     },{
       path:"/home/newPaper",
       component:NewPaper
+    },{
+      path:"/home/newProduct",
+      component:NewPro
     }
   ]
 })
